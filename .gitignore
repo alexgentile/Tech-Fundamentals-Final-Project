@@ -1,0 +1,9 @@
+
+# general ignores
+**.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+
+# because it is against kaggle ToS to upload data files to github
+data/
