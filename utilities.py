@@ -13,3 +13,4 @@ def gen_sub(df, col1, col2, filename=''):
         # output the new dataframe to location filename
         newDF.to_csv(filename, index=False)
     return newDF
+
