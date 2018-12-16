@@ -5,4 +5,4 @@ This repository outlines my solution to the kaggle competition [HousePrices: Adv
 
 The data is not uploaded in this repository because it is against the Kaggle Terms of Service to upload the data files to Github. The data can be downloaded from Kaggle by agreeing to the rules of competition.
 
-The solution is done in python and assumes you have Jupyter installed so the notebooks can be viewed in your browser.
+The solution is done in python and assumes Jupyter, Pandas, Scipy, Numpy, Seaborn, MatPlotLib, and Scikit Learn are installed.
